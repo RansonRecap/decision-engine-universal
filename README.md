@@ -1,17 +1,22 @@
-If this helps, star the repo
+# Decision Engine Universal
 
-# ⚡ Decision Engine Universal
+A simple system for making better decisions under uncertainty.
 
 Turn complex situations into clear, actionable decisions.
 
+If this helps, star the repo
+
 ---
 
-## ⚡ Use this instantly
+## Use this instantly
 
 Copy and paste this into ChatGPT / Codex:
+
+"Operate as a Decision Compression Engine"
+
 Then type your situation.
 
-Example:
+**Example:**
 "Thinking about switching jobs. Higher pay, less stability."
 
 If you want a faster answer, say:
@@ -35,7 +40,9 @@ If you want a faster answer, say:
 
 ## What it does
 
-It forces any situation through a structured thinking process:
+It forces any situation through a structured thinking process.
+
+It reduces overthinking by forcing clarity and action.
 
 1. Identify environment (trend / range / transition / unstable)  
 2. Evaluate setup quality (strong / workable / weak)  
@@ -48,6 +55,10 @@ It forces any situation through a structured thinking process:
 ---
 
 ## Output format
+
+Right now:
+
+[environment] + [setup quality] + [trust level] → [action] ([size])
 
 ---
 
@@ -62,7 +73,7 @@ Thinking about switching jobs. Higher pay, less stability.
 Right now: transition + workable + normal trust → explore, do not commit (medium)
 
 **Action:**  
-Stay in current role while testing the new one.  
+Stay in current role while testing the new opportunity.  
 Only move if upside clearly outweighs instability.
 
 **What Matters Most:**  
@@ -82,6 +93,9 @@ Higher pay increases upside, but instability can erase it quickly.
 Paste the prompt → type your situation → get a structured decision.
 
 Optional (better results):
+- time horizon  
+- key variables  
+- main risk  
 
 ---
 
