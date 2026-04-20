@@ -1,20 +1,32 @@
-}
-# Decision Engine Universal
+If this helps, star the repo
 
-A behavior-first decision compression engine.
+# ⚡ Decision Engine Universal
 
-This system turns complex, messy situations into clear, actionable decisions.
+Turn complex situations into clear, actionable decisions.
+
+---
+
+## ⚡ Use this instantly
+
+Copy and paste this into ChatGPT / Codex:
+Then type your situation.
+
+Example:
+"Thinking about switching jobs. Higher pay, less stability."
+
+If you want a faster answer, say:
+"quick decision"
 
 ---
 
 ## What this is
 
-This is NOT:
+**This is NOT:**
 - a dashboard  
 - a prediction tool  
 - a long explanation generator  
 
-This IS:
+**This IS:**
 - a signal filter  
 - a decision compressor  
 - a clarity engine for action  
@@ -23,53 +35,53 @@ This IS:
 
 ## What it does
 
-It takes any situation and forces it through a structured thinking process:
+It forces any situation through a structured thinking process:
 
-1. Identify environment (trend / range / unstable)
-2. Evaluate setup quality (strong / workable / weak)
-3. Adjust for trust (uncertainty / recent accuracy)
-4. Size the decision (large / medium / small)
-5. Define triggers (what changes the decision)
-6. Create a playbook (what to do next)
-7. Output a final decision
+1. Identify environment (trend / range / transition / unstable)  
+2. Evaluate setup quality (strong / workable / weak)  
+3. Adjust for trust (uncertainty / recent accuracy)  
+4. Size the decision (large / medium / small)  
+5. Define triggers (what changes the decision)  
+6. Create a playbook (what to do next)  
+7. Output a final decision  
 
 ---
 
 ## Output format
 
-Right now:
-
-[environment] + [setup quality] + [trust level] → [action] ([size])
-
 ---
 
 ## Example
 
-Input:  
-Thinking about switching jobs. Higher pay, but less stability.
+**Input:**
+Thinking about switching jobs. Higher pay, less stability.
 
-Output:
+**Output:**
 
-Final Decision:  
+**Final Decision:**  
 Right now: transition + workable + normal trust → explore, do not commit (medium)
 
-Action:  
+**Action:**  
 Stay in current role while testing the new one.  
 Only move if upside clearly outweighs instability.
+
+**What Matters Most:**  
+This is a risk-adjusted life decision, not just a pay increase.
+
+**Signal vs Noise:**  
+Signal: income durability, stress load, exit flexibility.  
+Noise: title, excitement, vague “growth.”
+
+**Tradeoffs:**  
+Higher pay increases upside, but instability can erase it quickly.
 
 ---
 
 ## How to use this
 
-Paste this into ChatGPT / Codex / any LLM:
+Paste the prompt → type your situation → get a structured decision.
 
-"Operate as a Decision Compression Engine"
-
-Then give it:
-
-- your situation  
-- key variables  
-- main risks  
+Optional (better results):
 
 ---
 
@@ -93,8 +105,8 @@ This system forces that.
 - Decision > data  
 
 If unsure:
-→ reduce size  
-→ do not force action  
+- reduce size  
+- do not force action  
 
 ---
 
@@ -102,4 +114,8 @@ If unsure:
 
 v1.0 — Initial release
 
---
+---
+
+## Share
+
+If this helped you, share it with someone who is overthinking a decision.
